@@ -1,2 +1,2 @@
 @main def pongspel(): Unit = 
-    println("hej")
+    println("boll kör")
